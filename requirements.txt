@@ -1,0 +1,3 @@
+opencv-python==3.4.8.29 -i https://pypi.tuna.tsinghua.edu.cn/simple
+numpy==1.11.1    -i https://pypi.tuna.tsinghua.edu.cn/simple
+SciPy==1.2.3  -i https://pypi.tuna.tsinghua.edu.cn/simple
