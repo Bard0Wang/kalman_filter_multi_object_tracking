@@ -31,7 +31,7 @@ def main():
     """
 
     # Create opencv video capture object
-    cap = cv2.VideoCapture('data/TrackingBugs.mp4')
+    cap = cv2.VideoCapture('./data/football.mp4')
 
     # Create Object Detector
     detector = Detectors()
